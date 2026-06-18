@@ -43,6 +43,7 @@ Este repositório foi criado para:
 ## 👨‍💻 Author
 
 **Josicleyton Santos**
+
 🎓 Engenheiro de Produção e Mestre em Ciência da Computação <br>
 📊 Análise de Dados | 💻 Programação | ⚙️ Otimização
 

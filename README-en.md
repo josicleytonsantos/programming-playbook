@@ -43,6 +43,7 @@ This repository was created to:
 ## 👨‍💻 Author
 
 **Josicleyton Santos**
+
 🎓 Production Engineer and M.Sc. in Computer Science <br>
 📊 Data Analysis | 💻 Programming | ⚙️ Optimization
 
