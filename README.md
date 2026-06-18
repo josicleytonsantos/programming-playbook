@@ -7,7 +7,7 @@ Este repositório reúne minhas anotações, exemplos e referências rápidas da
 O objetivo é servir como uma base central de conhecimento, funcionando tanto como material de consulta quanto como um portfólio técnico das tecnologias com as quais possuo experiência.
 
 ## 💻 Linguagens
-s
+
 * 🐍 Python
 * ⚙️ C++
 * 🔷 C#
@@ -43,10 +43,8 @@ Este repositório foi criado para:
 ## 👨‍💻 Author
 
 **Josicleyton Santos**
-🎓 Engenheiro de Produção e Mestre em Ciência da Computação
-
+🎓 Engenheiro de Produção e Mestre em Ciência da Computação <br>
 📊 Análise de Dados | 💻 Programação | ⚙️ Otimização
 
-📧 [santos.josicleyton@gmail.com](mailto:santos.josicleyton@gmail.com)
-
+📧 [santos.josicleyton@gmail.com](mailto:santos.josicleyton@gmail.com) <br>
 💼 LinkedIn: linkedin.com/in/josicleyton-santos-0bb43b218

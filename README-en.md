@@ -1,6 +1,6 @@
 # 🚀 Programming Playbook
 
-🇧🇷 **Looking for the Portuguese version of this repository?** Check out [README-ptBR.md](README-ptBR.md).
+🇧🇷 **Looking for the Portuguese version of this repository?** Check out [README.md](README.md).
 
 This repository contains my notes, examples, and quick references for the programming languages I use.
 
@@ -43,10 +43,8 @@ This repository was created to:
 ## 👨‍💻 Author
 
 **Josicleyton Santos**
-🎓 Production Engineer and M.Sc. in Computer Science
-
+🎓 Production Engineer and M.Sc. in Computer Science <br>
 📊 Data Analysis | 💻 Programming | ⚙️ Optimization
 
-📧 [santos.josicleyton@gmail.com](mailto:santos.josicleyton@gmail.com)
-
+📧 [santos.josicleyton@gmail.com](mailto:santos.josicleyton@gmail.com) <br>
 💼 LinkedIn: linkedin.com/in/josicleyton-santos-0bb43b218
