@@ -411,7 +411,7 @@ cores = ("Azul", "Verde", "Vermelho")
 
 ---
 
-# 🎲 Sets
+### 12. 🎲 Sets
 
 Não possuem elementos repetidos.
 
@@ -429,7 +429,7 @@ Resultado
 
 ---
 
-# 📖 Dicionários
+### 13. 📖 Dicionários
 
 Estrutura chave-valor.
 
@@ -461,7 +461,7 @@ for chave, valor in pessoa.items():
 
 ---
 
-# ⚙️ Funções
+### 14. ⚙️ Funções
 
 ```python
 def saudacao(nome):
@@ -473,19 +473,14 @@ Chamando
 ```python
 saudacao("João")
 ```
-
----
-
-## Retorno
+#### Retorno
 
 ```python
 def soma(a, b):
     return a + b
 ```
 
----
-
-## Valor padrão
+#### Valor padrão
 
 ```python
 def saudacao(nome="Visitante"):
@@ -494,7 +489,7 @@ def saudacao(nome="Visitante"):
 
 ---
 
-# 📦 Importando módulos
+### 15. 📦 Importando módulos
 
 ```python
 import math
@@ -514,7 +509,7 @@ sqrt(25)
 
 ---
 
-# 📂 Manipulação de arquivos
+### 16. 📂 Manipulação de arquivos
 
 Escrevendo
 
@@ -532,19 +527,7 @@ with open("arquivo.txt", "r") as arquivo:
 
 ---
 
-# 🚨 Tratamento de exceções
-
-```python
-try:
-    numero = int(input())
-
-except ValueError:
-    print("Número inválido")
-```
-
----
-
-# 🏛️ Classes
+### 17. 🏛️ Classes
 
 ```python
 class Pessoa:
@@ -608,19 +591,10 @@ for nome, idade in zip(nomes, idades):
     print(nome, idade)
 ```
 
----
-
-# 📌 Lambda
-
-```python
-dobro = lambda x: x * 2
-
-print(dobro(10))
-```
 
 ---
 
-# 🗂️ Principais Bibliotecas
+### 🗂️ Principais Bibliotecas
 
 | Biblioteca | Uso |
 |------------|-----|
@@ -637,9 +611,7 @@ print(dobro(10))
 | Requests | Requisições HTTP |
 | Selenium | Automação |
 
----
-
-# 💡 Boas práticas
+### 💡 Boas práticas
 
 - Utilize nomes descritivos.
 - Escreva funções pequenas.
