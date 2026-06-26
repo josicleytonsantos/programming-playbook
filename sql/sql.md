@@ -1,4 +1,4 @@
-# 1. O que é SQL?
+### 1. O que é SQL?
 
 **SQL (Structured Query Language)** é a linguagem padrão utilizada para criar, manipular e consultar dados em bancos de dados relacionais.
 
@@ -35,7 +35,7 @@ Nos próximos tópicos, estudaremos principalmente os comandos das categorias **
 
 ---
 
-## 2. ## Conceitos Básicos de Banco de Dados Relacional
+### 2. ## Conceitos Básicos de Banco de Dados Relacional
 
 Um **banco de dados relacional** organiza as informações em **tabelas**, compostas por **linhas** (registros) e **colunas** (campos).
 
@@ -48,7 +48,7 @@ Por exemplo, uma tabela de clientes pode armazenar:
 
 A principal característica dos bancos relacionais é a possibilidade de **relacionar tabelas entre si**, evitando a duplicação de informações e facilitando a manutenção dos dados.
 
-### Chave Primária (Primary Key)
+#### Chave Primária (Primary Key)
 
 A **chave primária (Primary Key ou PK)** é um campo que identifica cada registro de forma única dentro de uma tabela.
 
@@ -68,7 +68,7 @@ Exemplo:
 
 Nesse caso, a coluna `id` é a chave primária.
 
-### Chave Estrangeira (Foreign Key)
+#### Chave Estrangeira (Foreign Key)
 
 A **chave estrangeira (Foreign Key ou FK)** é utilizada para criar relacionamentos entre tabelas.
 
@@ -88,7 +88,7 @@ Nesse exemplo, `id_marca` é uma chave estrangeira que referencia a coluna `id` 
 
 Assim, cada produto fica associado à sua respectiva marca.
 
-### Índices (Indexes)
+#### Índices (Indexes)
 
 Os **índices** são estruturas criadas para acelerar consultas em uma ou mais colunas.
 
@@ -107,7 +107,7 @@ Esse índice melhora o desempenho de pesquisas realizadas pela coluna `nome`.
 
 ---
 
-## 3. Criando tabelas (DDL)
+### 3. Criando tabelas (DDL)
 
 DDL significa **Data Definition Language**.
 
@@ -640,3 +640,15 @@ HAVING total_vendas < 7000;
 `WHERE` filtra linhas.
 
 `HAVING` filtra grupos.
+
+---
+
+### 👨‍💻 Author
+
+**Josicleyton Santos**
+
+🎓 Engenheiro de Produção e Mestre em Ciência da Computação <br>
+📊 Análise de Dados | 💻 Programação | ⚙️ Otimização
+
+📧 [santos.josicleyton@gmail.com](mailto:santos.josicleyton@gmail.com) <br>
+💼 LinkedIn: linkedin.com/in/josicleyton-santos-0bb43b218
